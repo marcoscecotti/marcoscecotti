@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcoscecotti
 - 👀 I’m interested in using engineering resources with informatics solutions!
-- 🌱 I’m currently learning something relationed with software development, IA or something similar.
+- 🌱 I’m currently learning something relationed with software development, AI or something similar.
 - 🍀 Also i love nature, playing football and travelling.
 
 <!---
